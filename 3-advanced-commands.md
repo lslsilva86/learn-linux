@@ -1,5 +1,7 @@
 # Advanced Linux Commands & Shell Scripting Summary
 
+- https://www.bosscoderacademy.com/blog/platform-shell-scripting-and-automation
+
 ## 1. File Transfer & Networking
 
 ### File Transfer Tools
